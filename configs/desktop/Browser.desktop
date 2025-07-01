@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ungoogled Chromium
+Comment=Secure Web Browser
+Exec=chromium
+Icon=chromium
+Path=
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,67 @@
+# Core system
+base
+linux
+linux-firmware
+base-devel
+archiso
+sway
+foot
+networkmanager
+network-manager-applet
+openvpn
+
+# Bootloaders and system tools
+syslinux
+edk2-shell
+memtest86+
+memtest86+-efi
+
+# Shell & UX
+zsh
+alacritty
+btop
+git
+curl
+wget
+net-tools
+
+# Modern Rust alternatives
+ripgrep
+fd
+bat
+eza
+duf
+dust
+
+# Red Team & MITM Tools
+bettercap
+mitmproxy
+ettercap
+sslsplit
+aircrack-ng
+hcxdumptool
+hcxtools
+wifite2
+mdk4
+impacket
+hashcat
+john
+metasploit
+macchanger
+proxychains-ng
+n2n
+socat
+tailscale
+wireguard-tools
+
+# Dev & script environments
+python
+python-pip
+ruby
+npm
+rust
+cargo
+go
+
+# Extra
+pacman-contrib
