@@ -1,0 +1,81 @@
+# Core system packages for Ubuntu/Debian
+build-essential
+linux-headers-generic
+sudo
+git
+curl
+wget
+python3
+python3-pip
+python3-venv
+golang-go
+zsh
+neofetch
+htop
+btop
+net-tools
+network-manager
+network-manager-gnome
+openvpn
+openssl
+
+# Window Manager and Terminal
+sway
+foot
+alacritty
+firefox-esr
+
+# Modern CLI alternatives (available in apt)
+ripgrep
+fd-find
+bat
+
+# Security and Networking Tools
+nmap
+wireshark
+tcpdump
+netcat-openbsd
+socat
+dnsutils
+whois
+traceroute
+telnet
+ftp
+ssh
+rsync
+
+# Penetration Testing Tools (available in apt)
+aircrack-ng
+hashcat
+john
+macchanger
+ettercap-text-only
+nikto
+sqlmap
+dirb
+gobuster
+hydra
+medusa
+wpscan
+
+# Development tools
+vim
+nano
+tmux
+screen
+strace
+ltrace
+gdb
+
+# System utilities
+tree
+less
+file
+which
+locate
+unzip
+zip
+tar
+gzip
+bzip2
+xz-utils
